@@ -1,0 +1,25 @@
+{
+  "name": "stream-json-repair-demo",
+  "version": "1.0.0",
+  "description": "Real-world consumer showcase application demonstrating the stream-json-repair NPM package for live AI token streaming",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "stream-json-repair": "^1.0.0"
+  },
+  "keywords": [
+    "stream-json-repair",
+    "npm-showcase",
+    "ai",
+    "streaming",
+    "llm",
+    "openai",
+    "gemini"
+  ],
+  "author": "Ekansh Khatri <ekanshkhatri@gmail.com>",
+  "license": "MIT"
+}
